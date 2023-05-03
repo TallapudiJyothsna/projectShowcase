@@ -1,0 +1,25 @@
+.each-project-container {
+  flex-basis: 12%;
+  height: auto;
+  border-radius: 8px 8px 4px 4px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  margin-left: 00px;
+  box-shadow: 4px 4px 4px 4px #ccc7c7;
+  padding: 10px;
+  width: 1100px;
+}
+
+.project-image {
+  width: 72vw;
+  border-radius: 8px 8px 0 0;
+}
+
+.project-title {
+  font-family: Roboto;
+  font-weight: 500;
+  color: black;
+  font-size: 14px;
+  margin: 10px 5px 0 5px;
+  padding-left: 10px;
+}
